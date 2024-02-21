@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dc9q3ejl0rXLGDx+L0eNqfpnCe/+rl96Qe1vSMSv99323qFz+fr+pEQFDVRc+Y7AVqwBsx4MlFlC8ajNCC0mQQ==",
+  "dgSpecHash": "FdRoEcKN7JMqCGkEw8JChGzqNGMKXnz2tRTcSGjuvCVw6cBcozjRwyAf/hK78QowCHBVtuJXOSs3nVlAg5MjyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\datahaxx\\Desktop\\SadConsole\\SadConsoleGame\\MyGame.csproj",
+  "projectFilePath": "C:\\Users\\datahaxx\\Desktop\\SadConsole\\SadConsoleGame---Andreas\\MyGame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\datahaxx\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
     "C:\\Users\\datahaxx\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",

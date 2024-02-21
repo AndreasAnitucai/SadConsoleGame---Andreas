@@ -231,11 +231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\datahaxx\\Desktop\\SadConsole\\SadConsoleGame\\MyGame.csproj",
+      "projectUniqueName": "C:\\Users\\datahaxx\\Desktop\\SadConsole\\SadConsoleGame---Andreas\\MyGame.csproj",
       "projectName": "MyGame",
-      "projectPath": "C:\\Users\\datahaxx\\Desktop\\SadConsole\\SadConsoleGame\\MyGame.csproj",
+      "projectPath": "C:\\Users\\datahaxx\\Desktop\\SadConsole\\SadConsoleGame---Andreas\\MyGame.csproj",
       "packagesPath": "C:\\Users\\datahaxx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\datahaxx\\Desktop\\SadConsole\\SadConsoleGame\\obj\\",
+      "outputPath": "C:\\Users\\datahaxx\\Desktop\\SadConsole\\SadConsoleGame---Andreas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\datahaxx\\AppData\\Roaming\\NuGet\\NuGet.Config",
